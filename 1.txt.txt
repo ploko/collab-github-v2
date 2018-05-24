@@ -17,6 +17,7 @@ sfdfsd
 asdasdasd
 
 Line 1
+Line 2
 
 Commit 1
 Commit 2
